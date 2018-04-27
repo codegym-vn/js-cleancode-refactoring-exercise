@@ -1,0 +1,25 @@
+{
+  "name": "js-cleancode-refactoring-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tennis-game.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codegym-vn/js-cleancode-refactoring-exercise.git"
+  },
+  "author": "codegym",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codegym-vn/js-cleancode-refactoring-exercise/issues"
+  },
+  "homepage": "https://github.com/codegym-vn/js-cleancode-refactoring-exercise#readme",
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
